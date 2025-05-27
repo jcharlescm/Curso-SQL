@@ -1,0 +1,21 @@
+
+ROTEIRO DO CURSO DE SQL - HASHTAG IMPRESSIONADOR
+
+1º - CRIE UM REPOSITORIO NO GITHUB.COM 
+
+2º - COPIAR A URL PARA CRIAÇÃO DO REPOSITORIO LOCAL
+     - CODIGO
+        - Copiar a URL para criação do Repositório LOCAL
+            - https://github.com/jcharlescm/Curso-SQL.git
+
+3º - ABRIR A PASTA DO REPOSITORIO LOCAL COM O VISUAL CODE - VSCODE
+    - Vá até a pasta criada para o repositório local com o Windows Explorer
+        - Selecione a barra de endereço e digite $ CMD
+            - Depois digite $ CODE . (abrirar o VSCODE)
+
+4º - AO ABRIR O VSCODE
+    - Clicar em Terminal / Novo Terminal
+        - Ao abrir o terminal no lado direito na seta(+V) para abrir o Terminal bash
+            - Clique em bash e abrirá o terminal $
+                - $ git clone https://github.com/jcharlescm/Curso-SQL.git
+                
